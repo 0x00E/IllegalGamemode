@@ -1,0 +1,7 @@
+world: 
+    - world
+    - world_nether
+    - world_the_end
+#生效的世界
+Gamemode: 0
+#生效后改变的游戏模式

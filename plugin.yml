@@ -1,0 +1,5 @@
+name: IllegalGamemode
+main: com.github.qianniancc.IllegalGamemode
+version: 1.0
+commands:
+  igreload:
